@@ -7,7 +7,7 @@
 - 👨‍💼 Full Stack Developer and recent Flatiron School graduate
 - 🌱 Passionate about creating innovative features and expanding my coding skills
 - 🚀 Proficient in React, JavaScript, Flask, HTML, CSS and Python
-- 🏄‍♀️Nature lover who enjoys surfing with friends
+- 🏄‍♀️ Nature lover who enjoys surfing in my free time
 - 📧 Reach out to me at landoncramer1@gmail.com for collaboration or just to say hello!
 
 ### Skills and Experience
